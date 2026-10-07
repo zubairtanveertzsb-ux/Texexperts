@@ -1,0 +1,6 @@
+{
+  "name": "TaxLink Portal & Appointment Desk",
+  "description": "Professional appointment booking & tax workflow system for New Taxpayer Registration, Account Recovery, Password Reset, Income & Sales Tax Filing with direct WhatsApp document integration and intuitive task dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
